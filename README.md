@@ -21,4 +21,4 @@
 - **CMS & Hosting:** WordPress, Server Management
 
 ## 📫 Get in Touch  
-🔗 [LinkedIn](#) | 📧 [Email](#) | 🌐 [Website](#)  
+🔗 [LinkedIn](https://www.linkedin.com/in/vilhelmhilding/) | 📧 [Email](#) | 🌐 [Website](#)  
