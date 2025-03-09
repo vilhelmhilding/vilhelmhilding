@@ -1,23 +1,24 @@
-# About me
+# 👋 Hi, I'm Vilhelm Hilding
 
-## Hi there 👋
+🎓 **M.Sc. student in Engineering Physics** at **Lund University (LTH), Sweden**  
+🚀 Passionate about **problem-solving** through **smart, optimized, and automated solutions**  
+📈 Strong interest in **Quantitative Finance**, **Machine Learning**, and **Data Science**  
+💡 Extensive experience in **Python**, with a deep focus on **Pandas & NumPy**  
 
-### Test
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+### 🖥️ Programming & Development
+- **Primary:** Python (Software Development, Automation, Optimization)
+- **Web Technologies:** PHP, JavaScript, HTML, CSS, WordPress
+- **Other Languages:** Java  
 
-<!--
-**vilhelmhilding/vilhelmhilding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Science
+- **Libraries & Tools:** Pandas, NumPy
+- **Applications:** Quantitative Finance, Data Analytics
 
-Here are some ideas to get you started:
+### 🌐 Web Development & Infrastructure
+- **Full-stack experience:** PHP, JavaScript, HTML, CSS
+- **CMS & Hosting:** WordPress, Server Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Get in Touch  
+🔗 [LinkedIn](#) | 📧 [Email](#) | 🌐 [Website](#)  
