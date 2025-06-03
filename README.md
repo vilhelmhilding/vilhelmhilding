@@ -1,16 +1,28 @@
-## Hi there 👋
+# Vilhelm Hilding
 
-<!--
-**vilhelmhilding/vilhelmhilding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**M.Sc. Student in Engineering Physics** – Lund University (LTH)  
+Driven and analytically minded, with a strong foundation in mathematics, programming, and data analysis.  
+Passionate about solving complex problems at the intersection of technology, data, and finance.  
+Interested in quantitative research, algorithmic trading, and scalable tech systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+### Programming & Development
+- **Python** – numerical computing, data pipelines, performance optimization, scripting
+- **Java & PHP** – backend logic, object-oriented design
+- **Web Technologies** – REST APIs, Flask, JavaScript, HTML/CSS
+
+### Data Science & Quantitative Analysis
+- **Libraries & Tools** – NumPy, Pandas, SciPy, scikit-learn, Matplotlib
+- **Applications** – statistical modeling, time series analysis, machine learning, financial data analytics
+
+### Systems & Infrastructure
+- Experience with API integration, deployment workflows, and CMS platforms (e.g., WordPress)
+
+---
+
+## Contact
+
+[LinkedIn – vilhelmhilding](https://www.linkedin.com/in/vilhelmhilding/)
