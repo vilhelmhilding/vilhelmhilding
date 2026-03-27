@@ -29,16 +29,16 @@ Browser-based application for backtesting portfolio strategies.
 
 ## Skills
 
-**Languages:** Python, Java, Bash
-**Backend:** APIs, service design, application structure
-**Systems:** Linux, Docker, networking basics
-**Data:** NumPy, Pandas
+**Languages:** Python, Java, Bash  
+**Backend:** APIs, service design, application structure  
+**Systems:** Linux, Docker, networking basics  
+**Data:** NumPy, Pandas  
 
 ## Focus
 
-- Backend systems and APIs
-- Data processing and application logic
-- Writing code that is clear, testable, and maintainable
+- Backend systems and APIs  
+- Data processing and application logic  
+- Writing code that is clear, testable, and maintainable  
 
 ## Links
 
