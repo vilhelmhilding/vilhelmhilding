@@ -1,28 +1,45 @@
 # Vilhelm Hilding
 
-**M.Sc. Student in Engineering Physics** – Lund University (LTH)  
-Driven and analytically minded, with a strong foundation in mathematics, programming, and data analysis.  
-Passionate about solving complex problems at the intersection of technology, data, and finance.  
-Interested in quantitative research, algorithmic trading, and scalable tech systems.
+M.Sc. Engineering Physics student at Lund University (LTH).
 
----
+I focus on backend systems, APIs, and data processing, with an emphasis on clarity and correctness.
 
-## Technical Skills
+## Projects
 
-### Programming & Development
-- **Python** – numerical computing, data pipelines, performance optimization, scripting
-- **Java & PHP** – backend logic, object-oriented design
-- **Web Technologies** – REST APIs, Flask, JavaScript, HTML/CSS
+### [igapy](https://github.com/vilhelmhilding/igapy)
+Python wrapper for IG’s REST and streaming API.
 
-### Data Science & Quantitative Analysis
-- **Libraries & Tools** – NumPy, Pandas, SciPy, scikit-learn, Matplotlib
-- **Applications** – statistical modeling, time series analysis, machine learning, financial data analytics
+- Implements a complete client for a real-world external API
+- Handles authentication, session management, and streaming data
+- Includes CLI interface and automated tests
 
-### Systems & Infrastructure
-- Experience with API integration, deployment workflows, and CMS platforms (e.g., WordPress)
+### [Arxite](https://github.com/vilhelmhilding/arxite)
+Self-hosted web application setup focused on access control and deployment.
 
----
+- Containerized services using Docker
+- OAuth2 authentication and session handling
+- Reverse proxy setup via Cloudflare Tunnel
 
-## Contact
+### [yfolio](https://github.com/vilhelmhilding/yfolio)
+Browser-based application for backtesting portfolio strategies.
 
-[LinkedIn – vilhelmhilding](https://www.linkedin.com/in/vilhelmhilding/)
+- Processes external data and runs strategy logic over time-series
+- Interactive visualization with Plotly
+- Built as a simple, self-contained Flask application
+
+## Skills
+
+**Languages:** Python, Java, Bash  
+**Backend:** APIs, service design, application structure  
+**Systems:** Linux, Docker, networking basics  
+**Data:** NumPy, Pandas  
+
+## Focus
+
+- Backend systems and APIs  
+- Data processing and application logic  
+- Writing code that is simple, testable, and maintainable  
+
+## Links
+
+- LinkedIn: https://linkedin.com/in/vilhelmhilding
